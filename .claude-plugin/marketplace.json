@@ -1,0 +1,5 @@
+{
+  "name": "work-bar",
+  "owner": { "name": "cosmic-tom13" },
+  "plugins": [{ "name": "work-bar", "source": "./" }]
+}

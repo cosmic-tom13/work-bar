@@ -1,0 +1,6 @@
+{
+  "name": "work-bar",
+  "version": "0.1.0",
+  "description": "Shows a working bar above the prompt while a turn runs: step-based % complete from the task list, elapsed time otherwise.",
+  "types": "./types/index.d.ts"
+}
